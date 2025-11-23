@@ -24,15 +24,18 @@ Dataset:
 
 ## How to Run the Project
 
-• git clone https://github.com/ajinkyamane21/RealEstate-Market-Analytics.git 
-• cd RealEstate-Market-Analytics
-• python -m venv venv
-• venv\Scripts\activate
-• cd frontend
-• pip install -r requirements.txt
-• npm install
-• npm install concurrently
-• npm run runui
+```bash
+git clone https://github.com/ajinkyamane21/RealEstate-Market-Analytics.git
+cd RealEstate-Market-Analytics
+python -m venv venv
+venv\Scripts\activate
+cd frontend
+pip install -r requirements.txt
+npm install
+npm install concurrently
+npm run runui
+```
+
 
 
 ## Usage
