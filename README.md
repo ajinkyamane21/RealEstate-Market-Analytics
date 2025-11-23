@@ -24,27 +24,16 @@ Dataset:
 
 ## How to Run the Project
 
-### 1. Install backend dependencies
-cd backend
-pip install -r requirements.txt
+• git clone https://github.com/ajinkyamane21/RealEstate-Market-Analytics.git 
+• cd RealEstate-Market-Analytics
+• python -m venv venv
+• venv\Scripts\activate
+• cd frontend
+• pip install -r requirements.txt
+• npm install
+• npm install concurrently
+• npm run runui
 
-(or manually)
-pip install django pandas openpyxl
-
-### 2. Install frontend dependencies
-cd frontend
-npm install
-
-### 3. Start the project (single command)
-cd frontend
-npm run runui
-
-This starts both:
-• Django backend  
-• React frontend  
-
-After launch, open the browser at:
-http://localhost:3000/
 
 ## Usage
 • Search a location (example: Wakad) and click Analyze  
