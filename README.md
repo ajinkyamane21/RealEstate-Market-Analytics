@@ -56,7 +56,7 @@ backend/      → Django API and dataset
 frontend/     → React UI
 
 ## 🎥 Demo Video
-[▶️ Watch Demo](https://github.com/ajinkyamane21/RealEstate-Market-Analytics/raw/main/Demo Project.mp4)
+[▶️ Watch Demo](https://github.com/ajinkyamane21/RealEstate-Market-Analytics/raw/main/Demo%20Project.mp4)
 
 
 ## Developer
